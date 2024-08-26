@@ -1,5 +1,7 @@
 # silly_name_app
 
+This Flutter project is based on the codelab tutorial found here: https://docs.flutter.dev/get-started/codelab
+
 A new Flutter project.
 
 ## Getting Started
